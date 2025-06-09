@@ -1,6 +1,6 @@
 name: gesture_grid_view
 description: A Flutter package that provides pinch-to-zoom gesture control for GridView with smooth item animations, similar to iOS Photos app.
-version: 0.0.1
+version: 0.0.2
 homepage:
 repository: https://github.com/farmerswalker/gesture_grid_view
 

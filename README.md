@@ -2,7 +2,7 @@
 
 A Flutter package that provides pinch gesture control for GridView with smooth item animations, similar to iOS Photos app.
 
-![Demo](screenshots/gesture_optimized.gif)
+![Demo](https://github.com/farmerswalker/gesture_grid_view/raw/main/screenshots/gesture_optimized.gif)
 
 ## Features
 
